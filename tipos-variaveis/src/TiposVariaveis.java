@@ -3,3 +3,7 @@ public class TiposVariaveis {
         System.out.println("Hello, World!");
     }
 }
+
+public static void name() {
+    sytem.out.print
+}
